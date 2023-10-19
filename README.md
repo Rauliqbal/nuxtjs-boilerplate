@@ -9,7 +9,11 @@ Click Button 'Use This Template' or Clonning this repository
 ### Clone Repository
 
 ```
-git clone https://github.com/Rauliqbal/nuxt-tailwind.git
+mkdir nuxt-project
+
+cd nuxt-project
+
+git clone https://github.com/Rauliqbal/nuxt-tailwind.git .
 
 npm install
 
