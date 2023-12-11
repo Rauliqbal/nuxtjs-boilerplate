@@ -21,11 +21,11 @@ useHead({
       </div>
       <div class="flex gap-8 mt-10">
          <a href="https://nuxt.com/docs" class="bg-white py-3 px-6 border border-gray-400 flex items-center gap-4 font-medium text-lg rounded-lg hover:border-green-500 hover:bg-gray-100 transition-all">
-            <img class="w-10" src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="" />
+            <img class="w-10" src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="" />
             Nuxt Docs
          </a>
          <a href="https://tailwindcss.com/" class="bg-white py-3 px-6 border border-gray-400 flex items-center gap-4 font-medium text-lg rounded-lg hover:border-green-500 hover:bg-gray-100 transition-all">
-            <img class="w-10" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="" />
+            <img class="w-10" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="" />
             Tailwind Docs
          </a>
       </div>
