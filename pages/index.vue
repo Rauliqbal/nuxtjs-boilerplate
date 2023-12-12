@@ -22,7 +22,7 @@ useHead({
       <SwiperSlide v-for="slide in 4" :key="slide">
         <div class="flex items-center justify-center relative  h-[480px] overflow-hidden">
          <img class="object-cover w-full h-full" src="~/assets/images/carousel.png" alt=""> 
-         <p class="absolute">Image Slide {{ slide }}</p>
+         <p class="absolute">Dummy text test{{ slide }}</p>
         </div>
       </SwiperSlide>
     </Swiper>
