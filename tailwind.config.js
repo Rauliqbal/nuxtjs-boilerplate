@@ -9,7 +9,21 @@ module.exports = {
       "./error.vue",
     ],
    theme: {
-      extend: {},
+      extend: {
+         container: {
+            center: true,
+            padding: '1rem',
+            screens: {
+               '2xl' : "1280px",
+            },
+         },
+         colors: {
+            primary :  '#309399',
+         },
+         fontFamily: {
+            'poppins' :['Poppins','sans-serif']
+         }
+      },
    },
    plugins: [],
 };
