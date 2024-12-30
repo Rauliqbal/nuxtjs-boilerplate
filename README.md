@@ -1,23 +1,41 @@
-# Nuxt 3 with Tailwind Starter
+# Nuxt Minimal Starter
 
-This template will help you start developing with Nuxt 3 and Tailwind CSS
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Getting Started
+## Setup
 
-Click Button 'Use This Template' or Clonning this repository
+Make sure to install dependencies:
 
-### Clone Repository
-
-```
-mkdir nuxt-project
-
-cd nuxt-project
-
-git clone https://github.com/Rauliqbal/nuxt-tailwind.git .
-
+```bash
+# npm
 npm install
 
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
+```
+
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
 npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
 ```
 
 ## Production
@@ -25,13 +43,33 @@ npm run dev
 Build the application for production:
 
 ```bash
+# npm
 npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
 ```
 
 Locally preview production build:
 
 ```bash
+# npm
 npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
